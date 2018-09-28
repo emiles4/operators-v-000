@@ -7,7 +7,7 @@ else
 	return false
 end
 end
-end
+
 
 
 #def not_safe?(speed)
