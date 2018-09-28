@@ -4,7 +4,7 @@ then true
 	if(speed<30)
 	then true
 end
-
+end
 
 
 #def not_safe?(speed)
